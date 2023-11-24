@@ -1,6 +1,6 @@
 {
   "name": "express-bang",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Expressjs middlware to send response with http-friendly object",
   "type": "module",
   "scripts": {
