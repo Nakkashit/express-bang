@@ -4,7 +4,7 @@
   "description": "Expressjs middlware to send response with http-friendly object",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "bun test"
   },
   "exports": {
     "import": "lib/index.js",
